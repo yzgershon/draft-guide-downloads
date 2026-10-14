@@ -1,2 +1,2 @@
-7e0f3c9cbec70da2fae612c5c004fd1402040671f0968a3bca639dc508db9466  Draft-Guide-Setup-2.2.0.exe
-d0b61d29b973ed1052fc0869268bdb64b35fbdaa4f0664d7db5c074cb07494d8  Draft-Guide-Portable-2.2.0.zip
+84dc7f8b9f7d3316015afb52515e329510b45f708f3b23051019977b2572fed3  Google-Docs-Setup-2.2.1.exe
+7d58bfc4627b902bb5d70006d3fb6f8fe291105f0c0cd3a35264a93efcb8f759  Google-Docs-Portable-2.2.1.zip

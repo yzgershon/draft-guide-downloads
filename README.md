@@ -1,6 +1,6 @@
-# Draft Guide downloads
+# Google Docs downloads
 
-Public download page and installation instructions for version 2.2.0.
+Public download page and installation instructions for version 2.2.1.
 
 Website: https://yzgershon.github.io/draft-guide-downloads/
 
