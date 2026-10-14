@@ -1,0 +1,2 @@
+7e0f3c9cbec70da2fae612c5c004fd1402040671f0968a3bca639dc508db9466  Draft-Guide-Setup-2.2.0.exe
+d0b61d29b973ed1052fc0869268bdb64b35fbdaa4f0664d7db5c074cb07494d8  Draft-Guide-Portable-2.2.0.zip
