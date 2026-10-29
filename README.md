@@ -1,6 +1,6 @@
 # Google Docs downloads
 
-Public download page and installation instructions for version 2.2.1.
+Public download page and installation instructions for version 2.3.0.
 
 Website: https://yzgershon.github.io/draft-guide-downloads/
 

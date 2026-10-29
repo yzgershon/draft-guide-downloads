@@ -13,7 +13,7 @@ for (const button of document.querySelectorAll('[data-method]')) button.addEvent
   const zip = button.dataset.method === 'zip';
   document.querySelectorAll('[data-method]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
   document.querySelector('#stepOneTitle').textContent = zip ? 'Download and extract the portable ZIP.' : 'Download and run the installer.';
-  document.querySelector('#stepOneText').textContent = zip ? 'Download the portable ZIP above. Extract it to a permanent folder you will keep, such as Documents/GoogleDocs. Do not load it from inside the ZIP.' : 'Run Google-Docs-Setup-2.2.1.exe. It installs for your Windows account without administrator access. Open the setup guide when it finishes.';
+  document.querySelector('#stepOneText').textContent = zip ? 'Download the portable ZIP above. Extract it to a permanent folder you will keep, such as Documents/GoogleDocs. Do not load it from inside the ZIP.' : 'Run Google-Docs-Setup-2.3.0.exe. It installs for your Windows account without administrator access. Open the setup guide when it finishes.';
   document.querySelector('#unsignedNote').hidden = zip;
   document.querySelector('#installPath').hidden = zip;
   document.querySelector('#stepThreeText').textContent = zip ? 'Inside the folder you extracted, select the folder named extension (the one containing manifest.json). Keep this folder in place after installation.' : 'Select the extension folder below. The installer’s setup guide also gives you a full, copyable path.';
